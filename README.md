@@ -121,26 +121,8 @@ A set of **AI Skills** that encode structured thinking frameworks — the goal b
 
 ---
 
-## By the numbers
-
 <div align="center">
+<sub>Shifting organizations towards success. · <a href="https://www.fixyour.org/about/">FixYour.Org</a></sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tschug&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&hide_title=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tschug&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite&hide_title=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tschug&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub stats">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tschug&layout=compact&hide_border=true&langs_count=6&hide=html,css&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tschug&layout=compact&hide_border=true&langs_count=6&hide=html,css&theme=graywhite">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tschug&layout=compact&hide_border=true&langs_count=6&hide=html,css" alt="Top languages">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-<sub>Shifting organizations towards success. · <a href="https://www.fixyour.org/about/">About</a></sub>
+<sub>Guiding success along the way. · <a href="https://dogleg.solutions/">Dogleg Solutions, LLC</a></sub>
 </div>
