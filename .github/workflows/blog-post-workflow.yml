@@ -18,6 +18,6 @@ jobs:
         with:
           feed_list: "https://www.fixyour.org/feed.xml"
           max_post_count: 4
-          template: "- [$title]($url) — <sub>$newline$date</sub>$newline"
+          template: "$newline- [$title]($url) — $date"
           date_format: "mmm d, yyyy"
           commit_message: "chore: refresh blog posts"
