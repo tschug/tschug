@@ -14,6 +14,8 @@
 
 I came into the Salesforce ecosystem and development through a background of higher education, nonprofits, and organizational and personal development—the Birkman Method, OCAI, and years of work on how people and teams actually function. That order matters. I tend to start with where someone gets stuck, before any data model, and so the solutions/tools I build are mostly about making the right information visible at the moment a person needs it or making repetitive actions easier.
 
+When I'm not supporting my colleagues with solutions for our clients in the association and fraternal group market, I share my time on personal products and leading development on Salesforce Indicators, an Open Source Commons project.
+
 Right now I'm applying the same instinct to AI: the interesting question isn't what an agent *can* do, it's whether it understands enough about the person, process, and purpose on the other side so that it becomes worth trusting. Empathy and comprehension aren't soft additions to that problem. They're the specification.
 
 ---
@@ -26,7 +28,7 @@ Right now I'm applying the same instinct to AI: the interesting question isn't w
 
 ### 🎯 [Salesforce Indicators](https://github.com/SFDO-Community/Salesforce-Indicators)
 
-Transforms record data into vibrant icons and colors, surfacing the details that matter directly on Salesforce records. A **Salesforce Open Source Commons** project.
+**Lead developer and co-maintainer with [Jodie, Salesforce MVP Hall of Fame](https://github.com/jodiem).** Transforms record data into vibrant icons and colors, surfacing the details that matter directly on Salesforce records. A **Salesforce Open Source Commons** project.
 
 `Apex` `LWC` `Custom Metadata`
 
