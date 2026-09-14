@@ -97,7 +97,14 @@ A set of **AI Skills** that encode structured thinking frameworks — the goal b
 
 ## Latest from FixYour.org
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Problem Profile Editor Update &lpar;v0.3&rpar;](https://www.fixyour.org/posts/Problem-Profile-Editor-v0.3/) — <sub>
+Aug 26, 2026</sub>
+- [Conditional Formatting to Record Fields on Dynamic Forms](https://www.fixyour.org/posts/Conditional-Formating-To-Record-Fields-On-Dynamic-Forms/) — <sub>
+May 3, 2025</sub>
+- [Problem Profile Editor Update &lpar;v0.2&rpar;](https://www.fixyour.org/posts/Problem-Profile-Editor-v0.2/) — <sub>
+Apr 12, 2025</sub>
+- [Problem Profile Editor](https://www.fixyour.org/posts/Problem-Profile-Editor/) — <sub>
+Mar 13, 2025</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right"><a href="https://www.fixyour.org/archives/">→ all posts</a></div>
