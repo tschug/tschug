@@ -1,0 +1,22 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily, 06:00 UTC
+  workflow_dispatch:       # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Pull latest posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.fixyour.org/feed.xml"
+          max_post_count: 4
+          template: "- [$title]($url) — <sub>$newline$date</sub>$newline"
+          date_format: "mmm d, yyyy"
+          commit_message: "chore: refresh blog posts"
